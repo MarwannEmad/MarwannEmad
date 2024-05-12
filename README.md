@@ -5,7 +5,7 @@ preview
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwannemad&label=Profile%20views&color=0e75b6&style=flat" alt="marwannemad" /> </p>
 
 - 📫 How to reach me **marwanemad.elsharkawy@gmail.com**
-- 📫 Here is my Dashboards take a look to **(https://www.novypro.com/profile_projects/marwanemad)**
+- 📫 Here is my Dashboards **(https://www.novypro.com/profile_projects/marwanemad)**
   
 
 <h3 align="left">Connect with me:</h3>
